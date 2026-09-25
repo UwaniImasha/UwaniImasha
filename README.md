@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Uwani Imasha</h1>
-<h3 align="center">Undergraduate student</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uwaniimasha&label=Profile%20views&color=0e75b6&style=flat" alt="uwaniimasha" /> </p>
